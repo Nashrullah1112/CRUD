@@ -1,0 +1,38 @@
+.bg-image {
+    background-image: url("asset/unsplash-background.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+a {
+    text-decoration: none;
+}
+
+#list {
+    background: #273c75;
+}
+
+.bg-list {
+    background: #273c75;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+}
+
+.active {
+    background-color: black;
+}
+
+.card {
+    border: none;
+}
+
+.custom-width-logo {
+    width: 48px;
+    height: auto;
+}
